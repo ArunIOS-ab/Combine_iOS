@@ -6,8 +6,28 @@
 	<dict>
 		<key>Combine_iOS.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>96CF6B892A557A110059F490</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96CF6B992A557A120059F490</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96CF6BA32A557A120059F490</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
